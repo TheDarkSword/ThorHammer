@@ -1,0 +1,15 @@
+messages:
+  offline-player: "&cThis player is offline"
+  get-hammer: "&2Thor Hammer given to {player}"
+  get-hammer-other: "&2Thor Hammer given from {player}"
+  command: "&cThe command is &e/gethammer [player]"
+
+hammer:
+  material: "IRON_AXE"
+  name: "&cThor Hammer"
+  lore:
+  - "&dLore 1"
+  - "&eLore 2"
+
+# Default: 35%
+lightning-percent: 35

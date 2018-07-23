@@ -1,0 +1,11 @@
+name: ThorHammer
+version: 1.0
+author: TheDarkSword01
+main: it.mineblock.thorhammer.Main
+depend: [MBCore]
+description: Just a Thor Hammer Plugin
+
+commands:
+  gethammer:
+    aliases: [ghammer]
+    description: Just the Main Command
